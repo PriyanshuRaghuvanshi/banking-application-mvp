@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "config.import",
+    "type": "java.lang.String",
+    "description": "A description for 'config.import'"
+  },
+  {
+    "name": "spring.cloud.config.import",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.import'"
+  },
+  {
+    "name": "spring.cloud.config.import",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.import'"
+  }
+]}
